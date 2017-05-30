@@ -1,4 +1,5 @@
 # docker-aws-cfn-signal
-Provides AWS tools like the AWS CLI and CloudFormation helper scripts
+
+Provides the CloudFormation helper script `cfn-signal` to signal CF resources.
 
 Shamelessly stolen from https://github.com/asynchrony/docker-aws
